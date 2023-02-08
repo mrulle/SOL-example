@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            //starting at LoginService
+            //starting at LoginApplication
         }
     }
 }
